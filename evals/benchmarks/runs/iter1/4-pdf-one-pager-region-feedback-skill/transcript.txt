@@ -1,0 +1,27 @@
+Round 1 is set up and the feedback is consolidated. It's 6 comments from 3 reviewers, with no conflicts, reversals or duplicates. Nothing is decided yet. The review is saved at `reviews/tessel-cold-chain-one-pager.review.md`.
+
+**Setup:** The deadline is Oct 12, and the round covers everything on the page. Greg has the final say on claims and disclaimers. Nobody else has final say on anything. I treated Mei's and Rhea's areas as visual and messaging, and said nothing about authority for them.
+
+**Open questions for you:**
+1. **Who is the overall approver?** It's blank. Without one, close-out can't reach `Approved`. Approval would be required from that person and from Greg.
+2. **Does Mei have final say on brand?** That would cover the logo, orange and type. It would only change how I weigh her comments, because I've labeled all three as preferences either way.
+
+**Comments (R1-xx is the comment id):**
+
+| Id | From | Spot | Label | Proposed |
+|---|---|---|---|---|
+| R1-06 | Greg: "Needs to be legible. This is a blocker for me." | Disclaimer (fine print) | `must_fix` | Accept. This is Greg's call as compliance. |
+| R1-03 | Rhea: "need the real product shot there" | Hero image | `must_fix` | Accept. |
+| R1-01 | Mei: "give it some presence" | Logo | `preference` | Your call |
+| R1-02 | Rhea: "shorter, one line if we can manage it" | Headline | `preference` | Your call |
+| R1-04 | Mei: "the "Learn more" button is small and the orange on white is weak." | CTA | `preference` | Your call |
+| R1-05 | Mei: "'learn more' is vague, doesn't tell them what happens when they click" | CTA | `preference` | Your call |
+
+- **R1-03:** I labeled this `must_fix` as a factual error, because the picture shows a phone and Rhea says the sensor is a white puck with an LED. If you see it as a taste call, say so and I'll relabel it.
+- **R1-04 and R1-05:** I split these from Mei's single CTA comment.
+- **R1-02:** The headline runs to two lines today.
+- **Fine print:** It's tiny on the page, so R1-06 is a real problem. The lower third of the page is empty, so there seems to be room for larger fine print.
+
+**Coverage gap:** Nobody commented on the subhead, the three bullets or the "4.1°C" display. The bullets make claims: "under two minutes" and "up to 3 years". Greg's note only covers the fine print, so you may want to ask him to review the bullet claims before round 1 closes.
+
+**Next step:** Confirm the two must-fixes, or tell me to go with my suggestions. Then call the four preferences, and I'll build the Fix-List.

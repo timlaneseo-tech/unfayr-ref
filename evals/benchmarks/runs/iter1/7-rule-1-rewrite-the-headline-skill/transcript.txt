@@ -1,0 +1,9 @@
+Here are three headlines for the `<h1>` that don't use "guaranteed". Each one rests on a fact already in the email.
+
+1. **4.25% APY. On every dollar.** This is the most direct. It leads with the rate and uses the email's own "every dollar" wording.
+2. **Your savings should be earning 4.25%.** This is confident and a bit challenging. It frames the offer as the better default.
+3. **4.25% APY. No monthly fees. FDIC insured.** This is a proof-stack headline. It gets its strength from three concrete facts instead of a promise word.
+
+Dana will probably want option 1 or 3, because specific numbers read as stronger than adjectives. I'd still have Legal look at all three. Options 1 and 3 state the rate as a fact, and the footer says it "may change after the account is opened". The footer disclosure probably covers that, but Legal should confirm.
+
+Line 11 of the body also has a problem: "Your savings are **guaranteed** to earn more with us than at a big bank." That's the same word, and it makes a comparative claim that's harder to defend than the headline. If Legal objects to the headline, they'll almost certainly object to that sentence too. It's worth sending them both together. I haven't edited the file or written replacement copy for that line.

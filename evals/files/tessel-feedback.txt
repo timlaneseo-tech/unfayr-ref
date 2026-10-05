@@ -1,0 +1,16 @@
+Comments exported from Drive: tessel-one-pager-v1.pdf  (1 page)
+
+--- Mei Tanaka, Oct 7, 2026, 10:02 AM ---
+logo is tiny and just kind of floating up in the top left corner. give it some presence, it's the first thing people see
+
+--- Rhea Castillo, Oct 7, 2026, 11:30 AM ---
+Headline is too long. I want it shorter, one line if we can manage it. reps will be reading this out loud on calls
+
+--- Rhea Castillo, Oct 7, 2026, 11:34 AM ---
+that picture in the middle looks like a phone. our sensor is a little white puck with an LED, nobody will recognize it. need the real product shot there
+
+--- Mei Tanaka, Oct 7, 2026, 2:15 PM ---
+the "Learn more" button is small and the orange on white is weak. also "learn more" is vague, doesn't tell them what happens when they click
+
+--- Greg Lindqvist (Compliance), Oct 8, 2026, 8:48 AM ---
+The fine print at the bottom is unreadable at that size. It carries the battery and alert-time limits and the line about not replacing manual checks, which we are required to show clearly. Needs to be legible. This is a blocker for me.

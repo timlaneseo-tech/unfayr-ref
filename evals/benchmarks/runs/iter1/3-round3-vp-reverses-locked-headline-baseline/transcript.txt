@@ -1,0 +1,21 @@
+I've logged all three Round 3 comments in the review file, and two of them need your call before v4. I haven't changed the email.
+
+**Your calls**
+
+1. **Which shipping threshold is right, $75 or $90?** Nina flagged that the banner says over $75 and the footer says over $90, and I can't tell from the files which is correct. Nina's fix is a must-fix, and Owen's legal sign-off depends on it. The footer figure also carries the "within the continental US" qualifier. Whichever figure you pick has to go in both places.
+
+2. **Do you reopen the headline?** Jordan now calls it "tired" and wants something punchier. That headline is the one Jordan approved in Round 1 and told everyone not to touch (lock L1). Jordan has final say on messaging, so they can lift their own lock. Even so, I've left the lock in place and haven't drafted alternatives until you confirm. Two things to weigh:
+   - The Round 3 scope says copy, offer and legal only, so a new headline restarts Nina's and Owen's review of the copy.
+   - The deadline is Oct 14, two days from the feedback.
+
+   Jordan's request came by Slack DM and not through the review thread. You may want it confirmed in writing, since it reverses their R1 approval.
+
+**Status**
+- **Owen:** he isn't a clean approval yet. His OK is conditional on the thresholds matching, and he hasn't seen a new headline if one happens.
+- **Approvals:** none are recorded.
+- **Round 3 responses:** all three reviewers have responded, so the round is complete.
+
+**Review file**
+- I added R3-01 to R3-03, decisions D2 and D3 as pending, and the Round 3 response dates.
+- D2 and D3 are pending entries with no choice yet, and I added a "conditional_approval" label for Owen's comment. The schema didn't cover either, so check they fit your tooling.
+- I recomputed the file's integrity hash after the edits.

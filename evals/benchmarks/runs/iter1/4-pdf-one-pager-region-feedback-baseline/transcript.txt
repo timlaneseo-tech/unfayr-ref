@@ -1,0 +1,46 @@
+# Tessel one-pager v1: consolidated round 1 feedback
+
+**Deadline:** Oct 12. **Reviewers:** Mei Tanaka (design), Rhea Castillo (sales), Greg Lindqvist (compliance, final say on claims and fine print).
+
+## Blocker
+
+| # | From | Item | Action |
+|---|---|---|---|
+| 1 | Greg | Fine print is unreadable at its current size (about 5–6pt). It carries the alert-time limits, battery limits and the "does not replace manual checks" disclaimer, which must be shown clearly. | Make it legible. The page has plenty of empty space between the CTA and the footer, so it can grow without squeezing anything. Ask Greg for a minimum size or contrast spec, and get his sign-off on the revised version. |
+
+## Changes requested
+
+| # | From | Item | Action |
+|---|---|---|---|
+| 2 | Mei | The logo is tiny and floats in the top left. | Make it larger and give it more presence. |
+| 3 | Rhea | The headline is too long. Reps read it aloud, so she wants one line if possible. | Rewrite it. It is currently "Know your vaccine fridge is safe before the morning shift does." |
+| 4 | Rhea | The hero graphic looks like a phone, not the sensor (a small white puck with an LED). | Replace it with the real product shot. Needs a photo asset from Rhea or product. |
+| 5 | Mei | The "Learn more" button is small, the orange on white is weak, and the label is vague. | Make the button bigger, fix the contrast, and use a label that says what happens next. |
+
+## Open points
+
+- **#3 and Greg:** Greg has final say on claims, so a shorter headline that still says "safe" needs his approval.
+- **#5:** A specific CTA label depends on the destination (demo, quote, spec sheet), and nobody has said which. This one needs an answer from Rhea. The PDF also shows no URL or QR code, so a printed copy has nothing to act on.
+- **#4:** The current graphic shows a "4.1°C" screen, but the real puck has only an LED. The new shot may need a separate way to show the temperature reading.
+
+## Not yet covered
+
+Round 1 is meant to cover everything on the page, but nobody commented on these:
+- **Bullet claims:** "under two minutes", "up to 3 years" and "audit-ready reports for state boards". Greg only addressed the fine print. Ask him to confirm the bullets are supported and match the disclaimers. For example, the body says "text your pharmacy lead", while the bullet says "text and email".
+- **Subhead:** "every 60 seconds" and "the moment a fridge drifts out of range" are also unreviewed claims.
+- **Temperature unit:** The page shows °C only. Is that right for a US audience in Pittsburgh?
+- **Layout:** The empty band above the footer. It is also the space that fixes #1.
+- **Footer contents:** The address and the CDC reference.
+
+## Housekeeping
+
+- The comment timestamps (Oct 7–8) are later than today's date (Oct 5). This is probably a clock or export quirk, but check that the export is the right one.
+- Nobody has disagreed with anyone so far, so there are no conflicts to resolve.
+
+## Suggested next steps
+
+1. Ask Rhea for the product shot and the CTA destination.
+2. Ask Greg to review the bullets and subhead, and to give a size spec for the fine print.
+3. Ask Mei to confirm that a larger logo, button and fine print still fit on one page.
+
+I can draft those messages or write this up as a file if you'd like.

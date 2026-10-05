@@ -1,0 +1,30 @@
+Feedback is consolidated below. One conflict blocks sign-off, and it's yours to escalate rather than resolve.
+
+## Decision needed: "Guaranteed to grow." (headline)
+
+| | Position |
+|---|---|
+| **Lee (legal)** | "Guaranteed" must come out of the headline and paragraph 2. The rate is variable, and this is a hard stop. |
+| **Marcus (brand)** | The headline must stay exactly as is. It's the campaign line across billboards, radio and the app banner, and brand standards say campaign lines aren't edited per channel. |
+
+Both have final say in their own area, and claims are Lee's. Marcus's own rule also doesn't override a legal block. I don't think the two can be reconciled inside this email, so this is a call for Dana as overall approver. She hasn't reviewed past the subject line yet, and she said she'd look on Wed Oct 7.
+
+The options to put to Dana:
+1. **Change the headline in this email only.** This breaks Marcus's rule, so he would need to sign off on an exception.
+2. **Change the campaign line everywhere.** This is the cleanest fix. It's also a much bigger decision, and Lee should look at whether the billboards, radio and app banner carry the same exposure.
+3. **Keep the line with a qualifier.** Lee would have to approve it, and he said earnings can't be called guaranteed, so I wouldn't expect this to work.
+
+The line is live in other channels and Lee's objection applies there too. I'd raise that with Dana and Lee explicitly. I'd also ask Lee to confirm whether his objection is only the word "guaranteed" or the claim itself, since that determines which options are open.
+
+## Clear fixes (no real decision)
+- **Rate 4.25% → 4.35%** in the body (Priya). One thing to confirm with her: the footer says "APY is accurate as of October 1, 2026", but the rate sheet changed Friday. That date is probably stale too, and Lee called the footer fine without knowing about the rate change.
+- **Paragraph 2, "guaranteed to earn more with us than at a big bank"** (Lee). Removing "guaranteed" is required. The comparison to big banks also has no support in the email, so I'd ask Lee and Priya whether it can stay at all. It may need to be cut or substantiated.
+
+## Needs your call
+- **Logo spacing** (Marcus). You said layout is final this round, so I'd defer it or log it for the next round. It's brand's area, so tell Marcus you're parking it rather than leaving it unanswered.
+
+## Open items
+- **Dana:** subject line approved, everything else unreviewed. Her review is still needed after the claims are settled.
+- **Oct 9 deadline:** two days of slack after Dana's Oct 7 review. If the headline conflict isn't settled by then, the deadline is at risk, so I'd raise it with Dana now rather than waiting.
+
+Want me to draft the note to Dana and the follow-ups to Lee, Marcus and Priya? I haven't edited the HTML or sent anything.

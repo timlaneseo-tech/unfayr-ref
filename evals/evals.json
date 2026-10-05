@@ -1,0 +1,154 @@
+{
+  "skill_name": "ref",
+  "evals": [
+    {
+      "id": 1,
+      "name": "email-four-reviewers-legal-vs-brand",
+      "prompt": "Start a review for the Northgate Savings High-Yield Savings email (evals/files/northgate-email-v1.html). It's a promo email for the fall campaign. Reviewers: Dana Whitaker (marketing director, internal, overall approver), Lee Okafor (legal, internal, final say on claims), Marcus Bell (brand, internal, final say on brand standards: logo, color, type and voice), Priya Shah (product, internal, owns rates and product facts). Deadline Oct 9. This round: copy and claims only, layout is final. Feedback came back already, it's all pasted in evals/files/northgate-feedback.txt. Consolidate it and tell me what I need to decide.",
+      "expected_output": "A new review file with 4 reviewers and attributed comments; the Legal vs Brand conflict on 'guaranteed' is flagged with Legal named as the authority holder, the rate error is a must-fix, and Dana's praise is not recorded as an approval.",
+      "files": [
+        "evals/files/northgate-email-v1.html",
+        "evals/files/northgate-feedback.txt"
+      ],
+      "assertions": [
+        "Identifies the disagreement between Lee (remove 'guaranteed' from the headline and body) and Marcus (keep 'Guaranteed to grow.' in the headline) as a conflict, quoting both",
+        "Says Lee (Legal) has the final say on the claim, because claims is Lee's area, and recommends following Legal's position on the word 'guaranteed'",
+        "Offers no rewritten headline or replacement wording",
+        "Flags Priya's rate correction (4.25% in the email, 4.35% is the launch rate) as a required fix, not a taste call",
+        "Does not treat Dana's 'love the subject line' as sign-off on the email, since she says she has not read the rest",
+        "Reports the feedback by reviewer in their own words, without signatures or quoted earlier messages",
+        "[file] The conflict has authority_holder lee and lists both comment ids",
+        "[file] Priya's rate comment has label must_fix and an anchor excerpt containing 4.25%",
+        "[file] approvals is empty",
+        "[file] The output review file passes `review_file.py validate` with OK"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "agency-client-change-order",
+      "prompt": "I'm the account lead at Tall Pine Creative. Start a review for the Redwater Brewing Fall Release Party landing page (evals/files/redwater-page-v1.html). Agency mode: the SOW summary is in evals/files/redwater-sow-summary.txt. Reviewers: Carla Mendes (client, owner, overall approver, final say on facts about the event), Ben Ortiz (agency creative director, internal). This is round 1, deadline Oct 12, and the round is about copy accuracy and tone on the event page. Carla's email is in evals/files/redwater-client-feedback.txt and Ben's Slack note is in evals/files/redwater-ben-notes.txt. Consolidate.",
+      "expected_output": "A review file where Carla's requests for a merch store section, a wholesale page and an email are labeled out_of_scope and shown as possible change orders, while the date correction is a must-fix.",
+      "files": [
+        "evals/files/redwater-page-v1.html",
+        "evals/files/redwater-sow-summary.txt",
+        "evals/files/redwater-client-feedback.txt",
+        "evals/files/redwater-ben-notes.txt"
+      ],
+      "assertions": [
+        "Identifies Carla's requests for a merch section with a cart, a separate wholesale page and an announcement email as outside the agreed scope of one event landing page",
+        "Describes those items to the user as a possible change order or separate quote, because Carla is the client, and suggests deferring them rather than doing them",
+        "Treats Carla's date correction (Friday October 23, not Saturday the 24th) as a required in-scope fix and points to the October 24 text in the page",
+        "Treats Ben's request to tighten the intro paragraph as an in-scope taste call for the user to decide, not a change order",
+        "Does not quote a price or estimate for the change order and does not write any of the out-of-scope content",
+        "[file] Carla's merch, wholesale and email comments have label out_of_scope and status deferred or open",
+        "[file] Carla's date comment has label must_fix; Ben's intro comment has label preference",
+        "[file] The output review file passes `review_file.py validate` with OK"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "round3-vp-reverses-locked-headline",
+      "prompt": "Round 3 feedback is in for the Calder & Finch Autumn Archive Sale email. The review file is evals/files/calder-finch-archive-sale.review.md and the current version is evals/files/calder-finch-email-v3.html. The new feedback is pasted in evals/files/calder-finch-round3-feedback.txt. Process it and tell me what needs my call.",
+      "expected_output": "Jordan's request to rework the headline is labeled reversal and cites lock L1 (approved by Jordan in R1); the shipping mismatch is a must-fix; Owen's conditional sign-off is handled without being counted as unconditional.",
+      "files": [
+        "evals/files/calder-finch-archive-sale.review.md",
+        "evals/files/calder-finch-email-v3.html",
+        "evals/files/calder-finch-round3-feedback.txt"
+      ],
+      "assertions": [
+        "Recognizes that Jordan's request to rework the headline contradicts the headline he approved in round 1, and cites that earlier approval and his exact words",
+        "Leaves the decision about reopening the headline to the user and does not treat it as an ordinary change to apply",
+        "Treats Nina's shipping threshold mismatch ($75 banner vs $90 footer) as a required fix",
+        "Notes Owen's sign-off is conditional on the shipping threshold matching, and does not count it as unconditional approval",
+        "[file] Jordan's headline comment has label reversal and its text cites lock L1",
+        "[file] Lock L1 is still present and no decision reopening it is recorded",
+        "[file] Nina's shipping comment has label must_fix with an excerpt from the banner or footer",
+        "[file] Owen's approval is recorded in approvals with a conditional field in his own words, or is not recorded as unconditional",
+        "[file] New comments are numbered R3-01 onward and all R1 and R2 comments are kept",
+        "[file] The output review file passes `review_file.py validate` with OK"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "pdf-one-pager-region-feedback",
+      "prompt": "Start a review for the Tessel Cold Chain pharmacy one-pager, the PDF is evals/files/tessel-one-pager-v1.pdf. It's a sales leave-behind, one page, visual. Reviewers: Mei Tanaka (design, internal), Rhea Castillo (sales, internal), Greg Lindqvist (compliance, internal, final say on claims and fine print). Deadline Oct 12, round 1 covers everything on the page. Their comments exported from Drive are in evals/files/tessel-feedback.txt. Consolidate the feedback.",
+      "expected_output": "A review file for a visual asset where the five comments (six entries once Mei's two CTA requests are split) are anchored to the right named region of page 1: Logo, Headline, Hero image, CTA and the footer disclaimer.",
+      "files": [
+        "evals/files/tessel-one-pager-v1.pdf",
+        "evals/files/tessel-one-pager.html",
+        "evals/files/tessel-feedback.txt"
+      ],
+      "assertions": [
+        "Places Mei's logo comment at the logo in the top left of page 1",
+        "Places Rhea's 'headline is too long' comment at the headline ('Know your vaccine fridge is safe before the morning shift does.')",
+        "Places Rhea's comment about the picture in the middle at the hero image",
+        "Places Mei's comment at the 'Learn more' button, and separates her button size and contrast request from her request about the vague wording",
+        "Places Greg's fine-print comment at the footer disclaimer at the bottom of page 1 and treats it as a required fix because it is a compliance blocker",
+        "[file] asset_type is visual and all anchors have page 1",
+        "[file] Anchor sections are Logo, Headline, Hero image, CTA (two comments) and Disclaimer or Footer; excerpts, where present, are verbatim from the page",
+        "[file] Greg's comment has label must_fix. Labels on the other comments are not graded",
+        "[file] The output review file passes `review_file.py validate` with OK"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "v2-misses-one-and-adds-one",
+      "prompt": "Here's v2 of the Meridian Dental Fall Cleaning Special email: evals/files/meridian-email-v2.html. v1 is evals/files/meridian-email-v1.html and our tracking file for this review is evals/files/meridian-fall-cleaning.review.md. Did they make all the changes we agreed on? Update the tracking file with what you find.",
+      "expected_output": "A revision check that verifies four of the five Fix-List items with before and after evidence, flags the missed 'guaranteed' removal, and flags the added referral line as an unrequested change.",
+      "files": [
+        "evals/files/meridian-fall-cleaning.review.md",
+        "evals/files/meridian-email-v1.html",
+        "evals/files/meridian-email-v2.html"
+      ],
+      "assertions": [
+        "Reports that exactly one of the five agreed changes was not made: 'guaranteed pain-free techniques' still appears in v2 (Dr. Mehta's request)",
+        "Confirms the other four with before and after evidence: $49 became $59, the Book my visit link now has a real URL, 'recieve' became 'receive', and an unsubscribe link was added to the footer",
+        "Flags the new sentence 'Refer a friend and you both get $20 off your next visit.' as a change nobody asked for, in the body",
+        "Does not treat the declined logo comment or the answered whitening-kit question as changes to check",
+        "Offers the user next steps (another round or sign-off) without choosing for them",
+        "[file] R1-01, R1-03, R1-04 and R1-05 have status verified and R1-02 stays accepted",
+        "[file] v2 is added to versions with a fingerprint",
+        "[file] The output review file passes `review_file.py validate` with OK"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "messy-paste-secondhand-and-vague",
+      "prompt": "Start a review for the Olive & Ash homepage hero copy (evals/files/olive-ash-hero-copy.md), it's copy. Reviewers: Dana Reyes (head of growth, internal, overall approver, final say on offers and promo codes), Sam Whitfield (design, internal), Jo Alvarez (ops, internal, final say on service terms). Deadline Oct 19, round 1 is copy only. Everything that came in is pasted in evals/files/olive-ash-messy-paste.txt, sorry it's a mess. Sort it out.",
+      "expected_output": "A review file where the relayed items are flagged secondhand, 'Sam says it's approved' is not counted as an approval, and 'the thing we discussed' is recorded as an unanchored question with Ref asking the user what it refers to.",
+      "files": [
+        "evals/files/olive-ash-hero-copy.md",
+        "evals/files/olive-ash-messy-paste.txt"
+      ],
+      "assertions": [
+        "Treats 'Sam says it's all fine and basically approved' as secondhand and does not count it as Sam's approval, suggesting the user confirm with Sam directly",
+        "Says it cannot place 'the thing we discussed on Monday' and asks the user what it refers to instead of guessing",
+        "Flags Priya's relayed remark that Dana thinks the subhead is too long as secondhand and in need of confirmation",
+        "Picks up Dana's own written correction (promo code HELLO35, not HELLO40) as a required fix on the offer line",
+        "Asks whether to add Priya as a reviewer rather than treating her as one",
+        "Notes Jo's question about whether the cancel line is true",
+        "[file] The Sam comment has secondhand true, label question, and no approval is recorded for Sam in approvals",
+        "[file] The 'thing we discussed' comment has anchor section Unanchored, label question and status open",
+        "[file] The Priya relayed remark has secondhand true; Priya is not in reviewers; Dana's HELLO35 comment has label must_fix with her exact words and no signature",
+        "[file] The output review file passes `review_file.py validate` with OK"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "rule-1-rewrite-the-headline",
+      "prompt": "Legal won't allow 'guaranteed' in the Northgate headline (evals/files/northgate-email-v1.html) but Dana wants it to sound just as strong. Can you just rewrite the headline for me? Give me three options so we can send them over.",
+      "expected_output": "A short, polite decline that explains Ref does not write the creative, offers the Fix-List or a sharper description of what both reviewers want, and contains no replacement headline.",
+      "files": [
+        "evals/files/northgate-email-v1.html"
+      ],
+      "assertions": [
+        "Declines to write or rewrite the headline in one or two sentences, politely and without lecturing",
+        "Contains no alternative headline wording or example phrasing, not even 'for example' or 'something like'",
+        "Offers what it can do instead: a change list item for the headline or a description of what both reviewers want (a strong promise without the word 'guaranteed')",
+        "Does not decline twice in the same reply",
+        "Does not send anything or claim to have sent anything to the reviewers",
+        "[file] No review file is created or required for this request"
+      ]
+    }
+  ]
+}

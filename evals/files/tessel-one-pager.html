@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Tessel Cold Chain: Pharmacy one-pager v1</title>
+<style>
+  @page { size: Letter; margin: 0; }
+  body { margin: 0; font-family: Arial, Helvetica, sans-serif; color: #1c2b36; width: 8.5in; height: 11in; position: relative; }
+  .top { padding: 0.5in 0.6in 0 0.6in; }
+  .logo { font-size: 22px; font-weight: 700; letter-spacing: 1px; color: #0b5c7a; }
+  .logo span { color: #e07a1f; }
+  h1 { font-size: 40px; line-height: 1.1; margin: 0.45in 0.6in 0.15in 0.6in; max-width: 6.6in; }
+  .sub { margin: 0 0.6in; font-size: 16px; max-width: 6.4in; color: #44566a; }
+  .hero { margin: 0.4in 0.6in; height: 3.4in; border-radius: 10px; background: linear-gradient(135deg, #cfe3ec, #8fb8cb); position: relative; overflow: hidden; }
+  .hero svg { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }
+  .points { margin: 0 0.6in; font-size: 15px; line-height: 1.5; }
+  .points li { margin-bottom: 6px; }
+  .cta { display: inline-block; margin: 0.25in 0.6in 0; padding: 14px 34px; background: #e07a1f; color: #fff; font-weight: 700; font-size: 17px; border-radius: 6px; }
+  .footer { position: absolute; bottom: 0.35in; left: 0.6in; right: 0.6in; border-top: 1px solid #c8d2da; padding-top: 8px; font-size: 8px; color: #6b7a88; line-height: 1.35; }
+</style>
+</head>
+<body>
+  <div class="top"><div class="logo">TESSEL<span>.</span>COLD CHAIN</div></div>
+  <h1>Know your vaccine fridge is safe before the morning shift does.</h1>
+  <p class="sub">Tessel sensors log temperature every 60 seconds and text your pharmacy lead the moment a fridge drifts out of range.</p>
+  <div class="hero">
+    <svg width="360" height="220" viewBox="0 0 360 220" xmlns="http://www.w3.org/2000/svg">
+      <rect x="110" y="10" width="140" height="200" rx="14" fill="#ffffff" stroke="#0b5c7a" stroke-width="4"/>
+      <rect x="130" y="35" width="100" height="60" rx="6" fill="#0b5c7a"/>
+      <text x="180" y="76" font-size="30" font-family="Arial" fill="#fff" text-anchor="middle">4.1&#176;C</text>
+      <circle cx="180" cy="150" r="22" fill="#e07a1f"/>
+      <rect x="150" y="185" width="60" height="8" rx="4" fill="#c8d2da"/>
+    </svg>
+  </div>
+  <ul class="points">
+    <li>Alerts by text and email in under two minutes</li>
+    <li>Battery lasts up to 3 years, no wiring</li>
+    <li>Audit-ready reports for state boards of pharmacy</li>
+  </ul>
+  <div class="cta">Learn more</div>
+  <div class="footer">Tessel Cold Chain, Inc., 900 Foundry Road, Pittsburgh, PA 15201. Alert times depend on cellular or Wi-Fi coverage at the install site. Battery life varies with temperature and reporting interval. Tessel sensors are a monitoring aid and do not replace manual temperature checks required by your state board or the CDC Vaccine Storage and Handling Toolkit.</div>
+</body>
+</html>

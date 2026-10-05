@@ -1,0 +1,7 @@
+I don't write or rewrite the creative. That stays with you and your writer. Even three sample options would be me writing the headline.
+
+I can help in other ways:
+- **Fix-List item:** one entry for the Northgate headline with both requests quoted word for word, Legal's "no 'guaranteed'" and Dana's "just as strong". The constraint they share is a strong promise that doesn't use the word "guaranteed". Your writer can work from that.
+- **Brief for the writer:** a short description of what Dana means by "just as strong", so the options you send over hit the mark.
+
+I haven't opened `northgate-email-v1.html` or found a review file for Northgate yet. If you have one, point me to it and I'll pull the exact comments with their ids. If not, I can start a review for this email. Which do you want?

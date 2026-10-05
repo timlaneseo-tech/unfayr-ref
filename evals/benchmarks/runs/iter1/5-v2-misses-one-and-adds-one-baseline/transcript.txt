@@ -1,0 +1,20 @@
+No, v2 doesn't have all the agreed changes. One is missing, and there's one new change nobody asked for.
+
+| Item | Result in v2 |
+| --- | --- |
+| R1-01: price should be $59 | Fixed. |
+| R1-02: remove "guaranteed" from "guaranteed pain-free" | **Not fixed.** The line is identical to v1. Dr. Mehta has final say on claims. |
+| R1-03: Book button goes nowhere | Fixed. It now links to `https://meridiandental.example/book`. |
+| R1-04: "recieve" typo | Fixed. |
+| R1-05: add an unsubscribe link | Fixed. The footer now has an Unsubscribe link. |
+| R1-06: logo size | Left as is, matching decision D1. |
+| R1-07: whitening kit question | Already closed, and the copy is unchanged. |
+
+**Unrequested change:** v2 adds "Refer a friend and you both get $20 off your next visit." Nobody asked for it, and it's a new discount outside the agreed fixes. Tessa has final say on the offer, so I logged it under "Decisions to make" for her. The line doesn't say whether the $20 stacks with the $59 special or the no-insurance restriction.
+
+**Tracking file:**
+- **Version:** I added v2 with its fingerprint (`9fe555fd5458`) and a change summary.
+- **Status:** R1-01, R1-03, R1-04 and R1-05 are now marked done. R1-02 stays accepted.
+- **Open items:** I listed R1-02 and the referral line.
+
+I left `meta.rendered_hash` alone because I can't regenerate it here, so it's stale until the file is re-rendered. I also didn't start a round 2 or send any requests.

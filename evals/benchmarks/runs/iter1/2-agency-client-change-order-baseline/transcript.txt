@@ -1,0 +1,46 @@
+# Redwater Brewing Fall Release Party page: Round 1 consolidated review
+
+**Round 1 of 2 · due Oct 12 · scope: copy accuracy and tone on the event page**
+
+## 1. Needs a decision before we edit: the event date
+
+- **Carla's email** says the party is **Friday, Oct 23**, not Saturday the 24th. She wants it fixed before anything goes live.
+- **Our SOW summary** (signed Sept 14) says **October 24**. The page's "Saturday, October 24" matches the SOW.
+- Oct 23, 2026 is a Friday and Oct 24 is a Saturday, so Carla's day and date agree with each other.
+- Carla has the final say on event facts, so the page should change to her date. But the signed SOW names the 24th, so the 24th may have come from her side. I'd confirm with her in writing first. Reply to her with something like "Confirming Friday, Oct 23. Our SOW lists Oct 24, so we want to be sure." That settles it and covers us.
+- If Oct 23 is confirmed, these lines change:
+  - Line 6: "Saturday, October 24" becomes "Friday, October 23".
+  - Check the other times too (doors 4 pm, music 6 to 9 pm, kids and dogs until 7). A Friday event may have different hours, so ask her to confirm them.
+- Her email is dated Oct 8, but today is Oct 5. It's probably a timestamp quirk, but check you have the right version.
+
+## 2. In scope: tone (optional, Ben's note)
+
+- Ben would like the intro tightened. He calls "first pour of Copper Hollow Amber, our fall seasonal" a mouthful, and says it's his taste only.
+- Because it's taste, treat it as a suggestion. Carla approves the final copy.
+- Example: "Join us Friday, October 23 for the first pour of Copper Hollow Amber. Doors at 4 pm, live music from 6." This drops "our fall seasonal". The date is pending item 1.
+- I haven't seen Carla object to the intro. She said she likes where the page is going.
+- Ben said "otherwise fine, send it". His sign-off is effectively given, but it doesn't cover the date issue, which he may not have seen.
+
+## 3. Out of scope: change orders needed
+
+Carla's email asks for four things the SOW excludes. Each needs a separate quote and her written approval before any work starts:
+
+| Request | SOW status |
+|---|---|
+| Merch section (hoodies, pint glasses) with a cart | Excluded: online store/merch section, ticketing integration |
+| Separate wholesale accounts page | Excluded: additional pages |
+| Email to her list | Excluded: email or social content |
+
+I'd tell her that these are welcome but quoted separately, and that they won't hold up the date fix or this round. I'd also check whether the current copy has to change to accommodate any of them.
+
+## 4. Nothing to change
+
+- I found no other copy accuracy issues I can verify. Ticket price ($15), the 250 cap, the address, the three food trucks and the band name aren't in the SOW or either note, so they're unconfirmed. Carla's "overall I like it" suggests they're fine, but you may want her to confirm them in the same reply as the date.
+
+## Suggested next steps
+
+1. Email Carla to confirm the Oct 23 date and hours, and to say that the merch, wholesale and email requests will be quoted separately.
+2. Once she confirms, apply the date fix and, optionally, Ben's intro edit, and send v2.
+3. This uses round 1 of the 2 included rounds.
+
+Want me to draft the reply to Carla, or produce a v2 of the page with the date fix and Ben's edit shown separately?

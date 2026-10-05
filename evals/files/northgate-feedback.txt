@@ -1,0 +1,46 @@
+===== Email 1 =====
+From: Lee Okafor <lee.okafor@northgate.example>
+To: Tim Lane
+Date: Tue, Oct 6, 2026 9:12 AM
+Subject: RE: Review request - High-Yield Savings email v1
+
+Tim,
+
+Legal here. Two things, one blocking.
+
+1. The headline and the second paragraph both say "guaranteed". Our rate is variable, it can change after opening (it says so in the footer). We cannot call growth or earnings guaranteed. Needs to come out of both places. This one is a hard stop for me, I won't sign off with it in.
+2. Footer disclaimer is fine otherwise.
+
+Lee
+
+Lee Okafor | Associate General Counsel
+Northgate Savings | 410 Mill Street, Dayton OH
+This message may contain privileged information...
+
+> On Mon, Oct 5, 2026 at 4:30 PM Tim Lane wrote:
+> Hi all, attached is v1 of the High-Yield Savings email. Looking for feedback by Wed EOD.
+
+===== Email 2 =====
+From: Marcus Bell <marcus.bell@northgate.example>
+Date: Tue, Oct 6, 2026 11:47 AM
+Subject: Re: Review request - High-Yield Savings email v1
+
+Hi Tim
+
+Quick one. "Guaranteed to grow." is the campaign line, the whole fall campaign (billboards, radio, the app banner) uses it. It has to stay in the headline exactly as is, otherwise this email looks like it belongs to a different brand. Brand standards say campaign lines are not edited per channel. Also the logo needs more room above it, it's crammed against the top.
+
+thanks,
+Marcus
+Brand & Creative
+
+===== Slack (#fall-campaign) =====
+[Tue 2:05 PM] priya.shah: Tim the rate in the email says 4.25% but the rate we're launching at is 4.35%, rate sheet changed Friday. Needs to be updated in the body
+[Tue 2:06 PM] priya.shah: otherwise product is fine with it
+
+===== Email 3 =====
+From: Dana Whitaker <dana.whitaker@northgate.example>
+Date: Tue, Oct 6, 2026 4:20 PM
+Subject: Re: Review request - High-Yield Savings email v1
+
+Tim - love the subject line, nice work. Haven't read the rest closely yet, will do it tomorrow.
+Sent from my iPhone

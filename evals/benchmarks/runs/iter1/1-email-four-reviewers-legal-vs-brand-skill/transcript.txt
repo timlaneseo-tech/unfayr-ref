@@ -1,0 +1,38 @@
+Review set up and feedback consolidated. Saved to `reviews/northgate-high-yield-savings-email.review.md`: 8 comments from 4 reviewers, 1 conflict open. Round 1 runs on v1, due Fri Oct 9, with Dana as overall approver. I set authority as Lee on claims and disclaimers, Marcus on brand, and Priya on product facts. Tell me if any of that is wrong. Lee, Marcus and Priya must all sign off at close-out, along with Dana.
+
+**Two calls for you, plus a few things to confirm.**
+
+**C1 · Headline · claims**
+- Lee (R1-01): "Needs to come out of both places. This one is a hard stop for me, I won't sign off with it in."
+- Marcus (R1-04): "It has to stay in the headline exactly as is, otherwise this email looks like it belongs to a different brand."
+- Final say: Lee (claims).
+- Ref's call: follow Lee. The rate is variable, and Lee won't sign off otherwise. Marcus's point is real, but the campaign line itself is the problem. Lee may not know it runs on billboards, radio and the app banner. That is a campaign-wide issue for Dana, so you may want to raise it with her.
+- Draft to Marcus (internal, direct). It assumes you follow Lee, so don't send it until you've decided:
+
+> Subject: Northgate High-Yield Savings email: headline
+>
+> Hi Marcus,
+>
+> On the headline: going with Legal's call and taking "guaranteed" out. The rate is variable, and Lee won't sign off with the word in. Since the line runs across the whole fall campaign, I'd flag it to Dana so Legal can look at the other channels too.
+>
+> Tim
+
+**R1-05 · Logo spacing (Marcus):** "Also the logo needs more room above it, it's crammed against the top."
+- I labelled this out of scope ("save for later"), because layout is final this round. Marcus has final say on the logo, so it's your call.
+- If he's citing a clearspace standard, it becomes a must-fix.
+- Ref's call: defer it, unless he cites a standard.
+
+**Confirm before I record them:**
+- **R1-03, Lee:** "Footer disclaimer is fine otherwise." Do you want the footer locked as approved by Lee?
+- **R1-07, Priya:** "otherwise product is fine with it". Is that a conditional approval, "approved once the rate is fixed"? I only record an approval if you say yes.
+- **R1-08, Dana:** "love the subject line, nice work. Haven't read the rest closely yet." I treated this as praise, not a sign-off. She hasn't reviewed the rest, so ask her to confirm the subject line before it's locked.
+
+**Two things nobody raised:**
+- The footer says "APY is accurate as of October 1, 2026". Priya says the rate sheet changed Friday, so that date will be stale once the rate becomes 4.35%. Lee and Priya should confirm what date goes there.
+- The body says "guaranteed to earn more with us than at a big bank", which is a comparative claim. Lee only objected to "guaranteed". You may want to ask whether he's comfortable with the comparison once that word is gone.
+
+**Batch-confirmable:** accept as must-fix:
+- R1-02, Lee: remove "guaranteed" from the body.
+- R1-06, Priya: change the rate from 4.25% to 4.35%.
+
+**Waiting on others:** Dana hasn't reviewed beyond the subject line. She said she'd read the rest "tomorrow", so the approval is still open. Want a nudge draft for her?

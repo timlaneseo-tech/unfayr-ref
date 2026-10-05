@@ -1,0 +1,45 @@
+Four pieces of feedback on the Northwind Coffee Co. spring promo email (v1).
+Paste this into Claude after the review is set up and say: "Feedback's in."
+
+----------------------------------------------------------------------
+From: Lee Park (Legal)
+To: Jordan Reyes
+Subject: RE: Spring promo email for review
+Date: Mon, Oct 6, 2026, 10:14 AM
+
+Jordan,
+
+Reviewed v1. One blocker. The line "clinically proven to boost your morning focus" can't go out. We have no study behind it and the FTC will treat that as an unsubstantiated health claim. Please take the claim out entirely or replace it with something we can support.
+
+The "free bag" offer is fine as long as the footer keeps the "new subscribers only" language. Don't touch that.
+
+Lee
+
+----------------------------------------------------------------------
+#spring-promo (Slack), Tue Oct 7, 9:02 AM
+
+Priya Nair (Brand): honestly the "clinically proven" line is the best sentence in the email. it's the only thing that makes the beans sound different from every other roaster. I'd keep it and make it bigger. also the hero image feels a bit dark for spring, can we brighten it?
+
+----------------------------------------------------------------------
+From: Marcus Webb (Northwind Coffee Co., Head of Growth)
+To: Jordan Reyes
+Subject: RE: Spring promo email for review
+Date: Tue, Oct 7, 2026, 1:40 PM
+
+Hi Jordan,
+
+Thanks for sending this over. Love the direction. Can we also get a text message version of this promo for our SMS list? Something short with the free bag offer and a link. I know we only scoped the email but figured it would be quick.
+
+Also, can the button say "Get my free bag" instead?
+
+Marcus
+
+----------------------------------------------------------------------
+From: Dana Ortiz (Northwind Coffee Co., VP Marketing)
+To: Jordan Reyes
+Subject: RE: Spring promo email for review
+Date: Wed, Oct 8, 2026, 8:25 AM
+
+Looks good to me!
+
+Dana

@@ -1,0 +1,27 @@
+Round 1 is set up and the feedback is consolidated. Saved to `reviews/redwater-fall-release-party.review.md`. I haven't sent anything.
+
+Carla and Ben both replied on Oct 8, so no round-1 request drafts exist; the review file has no requests recorded. I treated the two files you pointed me to as the full feedback set.
+
+**Round 1. Two decisions need you.**
+v1, deadline Oct 12 (7 days out). Scope is copy accuracy and tone.
+
+| Reviewer | Final say on |
+|---|---|
+| Carla Mendes, client | Event facts. Overall approver. |
+| Ben Ortiz, internal | None. |
+
+Close-out will require Carla's approval. Ben isn't required.
+
+**5 comments**
+- **R1-01, Carla, must fix:** "The date is wrong, the party is Friday October 23 not Saturday the 24th…" This is at the hero line "Join us Saturday, October 24 for the first pour". It's a factual error and Carla has the final say on event facts. Ref's call: accept.
+- **R1-02, R1-03, R1-04, Carla, possible change orders:** the merch section with a cart, a wholesale page, and an email to her list. The SOW excludes an online store, merch, additional pages and email content. These need written client approval before any work starts. Ref's call: defer all three and quote them separately.
+- **R1-05, Ben, preference:** "personally I'd like the intro paragraph tighter… just my taste, otherwise fine, send it". It's about the intro phrase "first pour of Copper Hollow Amber, our fall seasonal". It's a taste call from someone without authority over event facts, so it's your decision.
+
+**What needs you**
+1. **Date mismatch.** The signed SOW says the party is October 24, and the page copied that. Carla now says October 23. October 23, 2026 is a Friday, so her correction is internally consistent. She has the final say on event facts, so Ref's call is to fix the page to Oct 23. Since the SOW disagrees, you may want her to confirm the date in writing, so the record shows where the 24th came from.
+2. **Confirm the proposed statuses.** That means accept R1-01, defer R1-02 to R1-04, and your call on R1-05.
+
+**Notes**
+- Carla's "overall I like where it's going!!" is praise, not a sign-off. No approval is recorded.
+- Ben's "send it" is not recorded as an approval. He hasn't signed off on the date.
+- The merch, wholesale and email asks are separate pieces. Do you want me to draft a reply to Carla that acknowledges them and says you'll quote them separately?

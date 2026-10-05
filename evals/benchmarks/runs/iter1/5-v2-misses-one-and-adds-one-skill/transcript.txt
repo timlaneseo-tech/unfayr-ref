@@ -1,0 +1,24 @@
+v2 was checked against 5 Fix-List items: 4 are done and 1 is not. There's also one change nobody asked for.
+
+No locks exist, so none were touched.
+
+**Done**
+- **R1-01** (Tessa: "The special is $59 not $49"): the body now says "just $59".
+- **R1-03** (Tessa: "Book button goes nowhere"): "Book my visit" now links to `meridiandental.example/book`. It was `#` before.
+- **R1-04** (Kyle: "typo - 'recieve'"): the body now says "receive".
+- **R1-05** (Tessa: "There's no unsubscribe link in the footer"): the footer now ends with an Unsubscribe link.
+
+**Not done**
+- **R1-02** (Raoul: "Take the word guaranteed out"): the body still says "guaranteed pain-free techniques". Raoul has final say on claims, so this blocks approval.
+
+**Unrequested change**
+- A new paragraph in the body reads "Refer a friend and you both get $20 off your next visit." Nobody asked for it, and it's a new offer. Tessa has final say on the offer, and offer accuracy is in this round's scope, so she should probably see it before it goes anywhere.
+
+**Unchanged as agreed**
+- The logo is the same (D1, declined). Kyle's whitening kit question (R1-07) needs no edit.
+
+**Saved**
+- The tracking file now has v2 recorded, the four fixed items marked verified, and the stage set to revision.
+- R1-02 stays accepted so it carries forward.
+
+Next step: send v2 back with R1-02 and the referral line flagged, which starts round 2. The other option is to close out, but R1-02 blocks approval. Which do you want? I can draft the message to the agency, but I can't write the replacement wording for you.

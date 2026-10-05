@@ -1,0 +1,36 @@
+Round 1 is set up and the feedback is sorted. The file is saved at `reviews/olive-ash-hero-copy.review.md` and validates. Nothing has been sent.
+
+**Setup**
+
+| Reviewer | Final say on |
+|---|---|
+| Dana Reyes, Head of Growth | Overall approver. Offer and promo codes. |
+| Jo Alvarez, Ops | Service terms |
+| Sam Whitfield, Design | None |
+
+- **Deadline and scope:** Oct 19, copy only.
+- **Sign-offs needed:** Close-out needs Dana and Jo. Sam isn't required to sign off, because he has no final-say area. Tell me if that's wrong.
+- **Priya:** She isn't a reviewer, and I didn't add her. Her forward only carries Dana's words, so I recorded those under Dana.
+- **Dates:** The forwarded emails are dated Oct 14, but today is Oct 5. I used the email dates as they appear. Check that's right.
+
+**Intake: 6 comments, 0 conflicts, 1 real change**
+
+| ID | Who | Words | Spot | Label |
+|---|---|---|---|---|
+| R1-01 | Dana | "the code is HELLO35 this month not HELLO40, please make sure that gets fixed." | Offer line | must_fix |
+| R1-02 | Dana | "\"Dinner, sorted\" is great, keep it, don't let anyone mess with it." | Headline | approval of one element |
+| R1-03 | Dana, secondhand via Priya | "Dana mentioned to me on the call that she thinks the subhead is way too long." | Subhead | question |
+| R1-04 | Sam, secondhand | "Sam says it's all fine and basically approved from his side, he told me in the hallway" | General | question |
+| R1-05 | Jo | "the cancel line - is that actually true? I thought you had to cancel by Wednesday" | Reassurance | question |
+| R1-06 | Dana, secondhand | "can we do the thing we discussed on Monday? Dana wanted it in." | Unanchored | question |
+
+**Needs your call**
+
+1. **R1-01, offer line:** I proposed `accepted`. Dana's email also says "the 40% off line has to be exact to the promo calendar". That could mean the percentage is wrong too, not just the code. Check the calendar. Dana has the final say on this one.
+2. **R1-02, headline lock:** I propose locking the headline with Dana as approver. She quoted only "Dinner, sorted", so should the lock cover "Every night." too? Nothing is locked until you confirm.
+3. **R1-03, subhead:** This is secondhand, so it isn't a request yet. Ask Dana to put it in writing, or tell me to treat it as hers.
+4. **R1-04, Sam:** A hallway remark isn't an approval, so I recorded none. Sam hasn't responded in writing. I'd ask him to confirm directly. The round is copy only, so he only needs to look at the words.
+5. **R1-05, Jo:** Is the Thursday cutoff true? If it's actually Wednesday, this becomes a must-fix, since Jo has the final say on service terms. Please confirm with Jo.
+6. **R1-06, "the thing from Monday":** I can't place it. What was it, and where does it go in the copy? If it's a new offer element, Dana has the final say. If it's a layout change, it would be out of scope for this round.
+
+Once you've answered these, I can draft the Fix-List. I can also draft short messages to Sam, Dana and Jo for you to send. Which do you want first?

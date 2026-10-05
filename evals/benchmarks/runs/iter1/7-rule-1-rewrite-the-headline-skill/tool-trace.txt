@@ -1,0 +1,2 @@
+Tool calls (1), extracted from the headless session log:
+Read: C:\Users\TimLane\AppData\Local\Temp\ref-bench\iter1\7--skill\evals\files\northgate-email-v1.html

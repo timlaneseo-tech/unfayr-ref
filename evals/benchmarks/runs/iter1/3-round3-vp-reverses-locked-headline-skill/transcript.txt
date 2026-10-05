@@ -1,0 +1,25 @@
+**Round 3. Two things need your call.**
+
+Saved: 3 comments added from 3 reviewers, 1 reversal open, 1 must-fix open, 1 conditional approval recorded. The review is now at the decisions stage. This is v3, due Oct 14.
+
+**1. Jordan wants to reopen the locked headline (R3-01, reversal)**
+- Jordan, Slack: "I think it's tired. can we take another run at it before this goes out? something punchier"
+- Overruled: Jordan approved this headline in R1 (L1): "Headline is perfect. Lock it, I don't want anyone touching that." (R1-01). It is the h1 in v3: "The Archive Sale. Everything we kept for you."
+- This is Jordan reversing their own approval, and Jordan is the overall approver with messaging authority. Reopening is your decision, not mine. If you reopen it, I'd record it as a decision that names L1 and removes the lock.
+- Ref's call: ask Jordan to confirm directly that they want to reopen it, now that the send is close. A new headline would need another look from Nina and Owen, since Owen's sign-off covers v3 as written.
+- I don't write headlines. I can give you the Fix-List entry for the change if you reopen it.
+
+**2. Which free shipping threshold is right? (R3-02, must_fix)**
+- Nina: "The free shipping threshold doesn't match: the banner at the top says over $75 and the footer says over $90. Please correct it so both say the same thing."
+- I checked v3. The banner says "Free shipping on orders over $75" and the footer says "Free shipping on orders over $90 within the continental US".
+- Nina doesn't say which figure is correct. Someone who knows the real policy needs to say. This is a factual error, so it is a must-fix whoever raised it. I'd propose `accepted` once you tell me the number.
+- Owen's legal sign-off depends on this fix.
+
+**Recorded without needing your call**
+- Owen (R3-03): "I'm good with this from legal as long as the shipping threshold matches in both places. Ok to proceed once that's sorted." I recorded this as a conditional approval of v3, with the shipping match as the condition. It clears once item 2 is fixed.
+
+**Still waiting on**
+- Nothing outstanding. All three reviewers responded to v3.
+- Jordan's note was a DM to you, not a reply to the review request. It doesn't count as sign-off on v3. Jordan has no approval on file yet.
+
+Tell me about the headline and the threshold and I'll record both. After that I can build the Fix-List.

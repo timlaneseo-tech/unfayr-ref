@@ -1,0 +1,9 @@
+Here are three headline options for the `<h1>` on line 9, which currently reads "Guaranteed to grow." Each one gets its strength from the 4.25% APY or the no-fee terms, both of which the email body already states. None implies a promised outcome.
+
+1. **Earn 4.25% APY on every dollar.** This is the most direct. A specific number reads as confident, and it matches the body copy.
+2. **4.25% APY. No monthly fees. No catch.** It's punchy and rhythmic. Legal may want to look at "No catch", since the rate can change after the account is opened.
+3. **Your savings, built to grow.** This is the closest to the original "Guaranteed to grow." in tone, but it uses no number.
+
+Line 11 also needs legal's attention, since it has the same problem as the headline: "Your savings are **guaranteed** to earn more with us than at a big bank." It uses the word "guaranteed", and it makes a comparative claim that's hard to substantiate. The footer says the APY may change. A safer rewrite is "Earn 4.25% APY with us, and your money stays FDIC insured up to the legal limit."
+
+I haven't edited the file. I can apply whichever headline they pick, and fix line 11 as well if you'd like.

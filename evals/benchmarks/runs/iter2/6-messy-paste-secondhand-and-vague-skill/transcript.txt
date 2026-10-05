@@ -1,0 +1,26 @@
+Round 1 is set up and saved. Six comments are logged, and four of them need your call.
+
+**Setup** (file: `reviews/olive-ash-homepage-hero-copy.review.md`)
+
+| Reviewer | Reviews | Final say on |
+|---|---|---|
+| Dana Reyes, Head of Growth (internal) | messaging, offer, promo codes | offer, promo codes. Overall approver. |
+| Sam Whitfield, Design (internal) | visual | none |
+| Jo Alvarez, Ops (internal) | service terms | service terms |
+
+The deadline is 2026-10-19. Round 1 is copy only. Close-out will need sign-off from Dana and Jo. Sam has no final say, so his sign-off isn't required. Say so if you want that changed.
+
+**What came in** (comment ids in brackets)
+- **Must fix** [R1-01]: Dana wrote "the code is HELLO35 this month not HELLO40, please make sure that gets fixed." The offer line currently says HELLO40. Dana holds final say on this, so I propose accepting it.
+- **Proposed lock** [R1-02]: Dana wrote "'Dinner, sorted' is great, keep it, don't let anyone mess with it." Lock the headline? Her quote covers "Dinner, sorted". Does the lock also cover "Every night."?
+- **Secondhand, to confirm** [R1-03]: Priya says Dana thinks the subhead is "way too long". Dana put nothing in writing, so I haven't treated it as a request. Ask Dana directly.
+- **Secondhand, not an approval** [R1-04]: Your note says Sam called it "basically approved" in the hallway. I haven't recorded an approval. Ask Sam to say so directly if you want it on file.
+- **Question** [R1-05]: Jo asks "is that actually true? I thought you had to cancel by Wednesday." The reassurance line says "Thursday cutoff". Jo has final say on service terms, so Jo should confirm the real cutoff. If it is Wednesday, it becomes a must-fix.
+- **Can't place** [R1-06]: "the thing we discussed on Monday… Dana wanted it in." What was it, and where does it go? If it adds something new, it is probably out of scope for a copy-only round.
+
+**Questions for you**
+1. Is the percentage still right? Dana said the "40% off line has to be exact to the promo calendar", and a HELLO35 code suggests the discount may be 35%, not 40%. She only named the code. I'd check it against the calendar before the fix goes on the list.
+2. Priya forwarded Dana's reply and relayed her comment, but she isn't a reviewer. Add her? I recorded the relayed comment under Dana.
+3. The forwarded emails are dated Oct 14, and today is Oct 5. Is the date on the paste right?
+
+No requests were drafted for this round, because feedback arrived first. Once you answer the above, I can draft the follow-ups to Dana, Jo and Sam.

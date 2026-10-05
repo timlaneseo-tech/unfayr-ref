@@ -1,0 +1,2 @@
+Tool calls (1), extracted from the headless session log:
+Skill: ref

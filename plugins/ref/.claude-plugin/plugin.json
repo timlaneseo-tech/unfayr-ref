@@ -1,0 +1,19 @@
+{
+  "name": "ref",
+  "version": "1.0.0",
+  "description": "Runs the creative review and approval cycle for one marketing asset. Ref keeps the review fair. You make the calls.",
+  "author": {
+    "name": "Unfayr",
+    "email": "hello@unfayr.com",
+    "url": "https://unfayr.com"
+  },
+  "homepage": "https://unfayr.com/ref",
+  "repository": "https://github.com/timlaneseo-tech/unfayr-ref",
+  "keywords": [
+    "marketing",
+    "review",
+    "approval",
+    "feedback",
+    "sign-off"
+  ]
+}
