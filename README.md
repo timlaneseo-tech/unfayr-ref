@@ -1,3 +1,10 @@
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/svg/lockup/ref-lockup-reversed.svg">
+    <img src="assets/logo/svg/lockup/ref-lockup.svg" alt="ref, by unfayr" width="320">
+  </picture>
+</p>
+
 # Ref, by unfayr.
 
 Ref keeps the review fair. You make the calls.
