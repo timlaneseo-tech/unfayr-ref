@@ -16,8 +16,8 @@
     {
       "name": "pitcrew",
       "source": {
-        "source": "github",
-        "repo": "timlaneseo-tech/unfayr-pit-crew"
+        "source": "url",
+        "url": "https://github.com/timlaneseo-tech/unfayr-pit-crew.git"
       },
       "description": "Pit fixes every page in one stop. You drive. Rewrites every page's title, meta description and H1 from your pages, search research and a short interview, in one naming style, then publishes the approved changes when you say so.",
       "version": "1.0.2"
